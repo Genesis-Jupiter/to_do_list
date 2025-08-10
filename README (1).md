@@ -14,12 +14,6 @@ Users can add tasks, view them in a list, and delete tasks they no longer need.
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](screenshot.png) <!-- Replace with your screenshot -->
-
----
-
 ## 🛠️ Tech Stack
 
 - **Flutter** (UI & logic)
